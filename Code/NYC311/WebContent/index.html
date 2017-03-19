@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>NYC 311 Complaints analysis</title>
+<link rel= "stylesheet" type="text/css" href="css/style.css"></link>
+</head>
+<body>
+	<div class="header">
+		<img src="images/nyc311Logo.png"></img>
+		<div id="heading">
+		<h1>Know about NYC area</h1>
+		</div>
+	</div>
+<div class="clear"></div>
+<div class="info">
+	<form method="GET" action="Connection.jsp">
+	 <div class="address-box">
+              <input id="address" type="text" name="address" placeholder="Enter street address" value=""></input>      
+     </div>          
+	 <div class="address-box">
+              <input type="text" name="zipcode" placeholder= "Enter zip" value=""></input>      
+     </div> 
+	<div class="select-box">
+              <select id="borough" name="borough">
+                  <option value="select">Select Your Borough</option>
+                  <option value="Bronx">Bronx</option>
+                  <option value="Brooklyn">Brooklyn</option>                
+                  <option value="Manhattan">Manhattan</option>
+                  <option value="Queens">Queens</option>
+                  <option value="Staten Island">Staten Island</option>
+              </select>                          
+    </div>
+    <input id="submit" type="Submit" value="Find Out"></input> 
+   </form>
+   
+</div>
+</body>
+</html>

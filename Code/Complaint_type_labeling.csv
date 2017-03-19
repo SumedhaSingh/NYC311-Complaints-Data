@@ -1,0 +1,211 @@
+Complaint_type,Count,Severity
+HEAT/HOT WATER,64984,3
+Street Condition,56173,2
+HEATING,48048,3
+Street Light Condition,46533,1
+Blocked Driveway,38926,3
+PLUMBING,30988,2
+Illegal Parking,30973,3
+PAINT/PLASTER,30525,1
+UNSANITARY CONDITION,30221,3
+Water System,26564,3
+Noise,25208,3
+Traffic Signal Condition,20645,1
+Sewer,18463,1
+Noise - Commercial,18298,3
+Noise - Street/Sidewalk,17244,3
+Dirty Conditions,15694,2
+DOF Literature Request,15216,1
+ELECTRIC,14830,3
+Broken Muni Meter,14458,1
+DOOR/WINDOW,14168,1
+WATER LEAK,14140,3
+Sanitation Condition,13254,2
+General Construction/Plumbing,12707,2
+Building/Use,12661,1
+GENERAL,12242,1
+Rodent,11957,3
+Missed Collection (All Materials),10546,1
+FLOORING/STAIRS,10284,3
+Damaged Tree,9784,1
+Consumer Complaint,8582,1
+Benefit Card Replacement,8403,1
+GENERAL CONSTRUCTION,8370,1
+Taxi Complaint,8162,2
+Graffiti,7913,1
+Overgrown Tree/Branches,7740,1
+Noise - Vehicle,7501,3
+Derelict Vehicle,7381,2
+Snow,7236,3
+PAINT - PLASTER,6367,1
+Derelict Vehicles,6154,1
+APPLIANCE,5063,2
+Dead Tree,5061,1
+Maintenance or Facility,5033,3
+NONCONST,4432,1
+Animal Abuse,4429,1
+Root/Sewer/Sidewalk Condition,4401,2
+Elevator,4337,3
+SCRIE,4102,1
+Food Establishment,4028,1
+Highway Condition,3908,1
+SAFETY,3622,3
+Air Quality,3418,3
+Opinion for the Mayor,3311,1
+Construction,2858,2
+Street Sign - Damaged,2847,2
+Other Enforcement,2674,1
+Indoor Air Quality,2447,3
+Special Enforcement,2395,1
+Sidewalk Condition,2267,2
+Fire Safety Director - F58,2265,3
+Special Projects Inspection Team (SPIT),2248,1
+Water Conservation,2228,3
+Street Sign - Missing,2131,2
+Noise - Park,1889,3
+Traffic,1874,2
+Electrical,1825,3
+Plumbing,1778,3
+Vending,1581,1
+Homeless Encampment,1466,2
+Litter Basket / Request,1418,3
+Food Poisoning,1413,3
+For Hire Vehicle Complaint,1380,1
+Hazardous Materials,1338,3
+Illegal Tree Damage,1185,1
+DOT Literature Request,1073,1
+Standing Water,1072,3
+DCA / DOH New License Application Request,1065,1
+Unsanitary Animal Pvt Property,1065,3
+Asbestos,1021,2
+Vacant Lot,984,1
+Lead,982,3
+Homeless Person Assistance,939,1
+Violation of Park Rules,905,1
+Smoking,859,3
+Boilers,822,3
+Street Sign - Dangling,801,1
+Sweeping/Missed,762,1
+Non-Residential Heat,759,3
+DPR Internal,720,1
+Indoor Sewage,714,3
+Industrial Waste,712,3
+School Maintenance,709,1
+OUTSIDE BUILDING,698,1
+Animal in a Park,657,1
+Noise - Helicopter,652,3
+Agency Issues,646,1
+Water Quality,644,3
+EAP Inspection - F59,605,1
+WNW,600,1
+Derelict Bicycle,590,1
+DOF Property - Reduction Issue,590,1
+Drinking,572,1
+Curb Condition,538,1
+Overflowing Litter Baskets,535,2
+Request for Information,522,2
+DCA Literature Request,514,1
+Noise - House of Worship,507,3
+Recycling Enforcement,488,1
+Bridge Condition,383,1
+Taxi Compliment,374,1
+DOF Parking - Tax Exemption,363,1
+ELEVATOR,354,3
+Request Xmas Tree Collection,317,1
+BEST/Site Safety,315,1
+WLWP,298,1
+Unsanitary Pigeon Condition,280,2
+Unleashed Dog,279,2
+Ferry Inquiry,269,1
+Public Payphone Complaint,256,1
+Disorderly Youth,248,1
+Taxi Report,246,1
+Emergency Response Team (ERT),237,1
+Sweeping/Inadequate,235,2
+Mold,226,1
+Bike/Roller/Skate Chronic,213,2
+Urinating in Public,204,3
+Found Property,201,1
+Fire Alarm - Reinspection,173,3
+Senior Center Complaint,161,1
+Investigations and Discipline (IAD),160,2
+City Vehicle Placard Complaint,143,1
+Plant,140,1
+IGR,137,1
+Cranes and Derricks,133,1
+OEM Literature Request,133,1
+CONSTRUCTION,126,2
+Illegal Animal Kept as Pet,119,1
+Harboring Bees/Wasps,118,3
+Illegal Fireworks,110,3
+Bus Stop Shelter Placement,108,2
+Ferry Complaint,103,1
+Scaffold Safety,101,1
+Fire Alarm - New System,99,2
+Complaint,83,1
+Beach/Pool/Sauna Complaint,82,1
+Fire Alarm - Modification,80,3
+Collection Truck Noise,77,3
+SDEP,71,1
+Panhandling,71,1
+Posting Advertisement,64,1
+Poison Ivy,60,2
+SDSC,58,1
+Broken Parking Meter,57,1
+Compliment,57,1
+Drinking Water,57,3
+Bike Rack Condition,49,1
+Miscellaneous Categories,48,1
+Unsanitary Animal Facility,48,1
+Municipal Parking Facility,48,2
+DPR Literature Request,44,1
+For Hire Vehicle Report,39,1
+Tattooing,38,1
+Misc. Comments,37,1
+Highway Sign - Damaged,36,1
+Internal Code,35,1
+STSK,33,1
+Overflowing Recycling Baskets,32,2
+Animal Facility - No Permit,29,2
+Invitation,27,1
+Parking Card,26,1
+Open Flame Permit,24,2
+Illegal Animal Sold,23,2
+Special Natural Area District (SNAD),19,1
+Adopt-A-Basket,19,1
+Window Guard,18,1
+Ferry Permit,18,1
+SG-98,18,1
+Highway Sign - Missing,15,1
+Public Toilet,14,3
+Tunnel Condition,11,3
+Stalled Sites,11,2
+Lifeguard,11,3
+Highway Sign - Dangling,10,1
+Public Assembly,10,1
+Fire Alarm - Addition,9,3
+DFTA Literature Request,9,1
+Fire Alarm - Replacement,8,3
+Legal Services Provider Complaint,8,2
+DEP Literature Request,8,1
+DHS Income Savings Requirement,8,1
+Bottled Water,7,2
+DWD,7,1
+Transportation Provider Complaint,7,2
+SG-51,7,1
+X-Ray Machine/Equipment,5,1
+Calorie Labeling,5,2
+Hazmat Storage/Use,4,1
+Sprinkler - Mechanical,4,2
+Trans Fat,3,1
+Radioactive Material,3,3
+Tanning,3,1
+Public Assembly - Temporary,2,1
+Squeegee,2,1
+SG-71,2,1
+Literature Request,2,1
+Gas Station Discharge Lines,1,3
+VACANT APARTMENT,1,2
+Standpipe - Mechanical,1,2
+Building Condition,1,2
+SG-99,1,1
